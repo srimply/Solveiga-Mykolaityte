@@ -2242,7 +2242,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     margin: 10px 0;
     margin-bottom: 0px;
 }
-.post-slide .post-title a{
+.post-slide .post-title {
     font-weight: 700;
     color:#e91616ec;
     font-size:18px;
@@ -2250,10 +2250,7 @@ only screen and (min-device-pixel-ratio: 1.5){
     transition: all 0.50s ease 0s;
     line-height: 23px;
 }
-.post-slide .post-title a:hover{
-    color:#333;
-    text-decoration: none;
-}
+
 .post-slide .post-description {
     color: #424242;
     font-size: 16px;
